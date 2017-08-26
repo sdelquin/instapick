@@ -1,0 +1,3 @@
+EXIFTAG_SOFTWARE = 305
+SOURCE_PATH = "xxxxxxxx"
+TARGET_PATH = "xxxxxxxx"
