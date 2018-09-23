@@ -9,12 +9,8 @@ If you want to pick the *instagram* images manually, you have to traverse all th
 ## Installation & Usage
 
 ~~~bash
->> mkvirtualenv instapick
->> workon instapick
->> pip install -r requirements.txt
->> git clone https://github.com/sdelquin/instapick.git
->> cp config.example.py config.py
-# set your folders (paths) in config.py
->> cd instapick
->> python main.py
+# clone repo
+$ pipenv install
+# edit .env file with the corresponding values
+$ pipenv run python main.py
 ~~~
